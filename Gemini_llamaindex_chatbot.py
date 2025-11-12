@@ -15,7 +15,7 @@ Original file is located at
 
 # Set API key (replace with your actual API key)
 import os
-GEMINI_API_KEY = "AIzaSyB7f1G7oeXiL1OV6f2N2yxdE0rSkYPFlKA"  # Replace with your actual API key
+GEMINI_API_KEY = "API Key"  # Replace with your actual API key
 os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
 
 """# Build simple chatbox"""
